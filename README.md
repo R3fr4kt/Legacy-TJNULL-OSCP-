@@ -1,5 +1,4 @@
-```python
-markdown_content = """# HackTheBox: Legacy Writeup
+# HackTheBox: Legacy Writeup
 An elegant, professional walkthrough demonstrating the exploitation of the **MS17-010 (EternalBlue)** vulnerability on a legacy Windows system. This writeup is structured to highlight offensive security methodologies, operational efficiency, and precise troubleshooting.
 
 ---
