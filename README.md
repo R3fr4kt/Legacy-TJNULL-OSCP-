@@ -186,5 +186,5 @@ type Administrator\\Desktop\\root.txt
 1. **Legacy Protocol Risk:** Leaving SMBv1 enabled exposes systems directly to unauthenticated remote code execution.
 2. **Patch Management:** This exploit highlights the extreme risk of deferred patching cycles on legacy operating infrastructure. Ensure **MS17-010** updates are deployed across all Windows systems.
 3. **Network Segmentation:** High-risk protocols like SMB (port 445) should never be exposed directly to untrusted networks without robust perimeter firewall rules.
-"""
+
 
