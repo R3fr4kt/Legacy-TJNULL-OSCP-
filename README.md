@@ -188,10 +188,3 @@ type Administrator\\Desktop\\root.txt
 3. **Network Segmentation:** High-risk protocols like SMB (port 445) should never be exposed directly to untrusted networks without robust perimeter firewall rules.
 """
 
-with open("htb_legacy_writeup.md", "w") as f:
-f.write(markdown_content)
-
-print("File generated successfully.")
-
-```
-
